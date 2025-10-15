@@ -7,7 +7,7 @@ It combines **OpenAI’s Whisper**, **Ollama’s LLaMA 3.2 model**, **Google Tex
 
 ## 🚀 Features
 
-- 🗣️ **Voice or Text Input** — Ask your farming questions by speaking or typing  
+- 🗣️ **Voice or Text Input** — Ask your farming questions by speaking or typing   
 - 🌦️ **Weather-Based Advice** — Integrates live weather data for context-specific suggestions  
 - 🌐 **Multilingual Support** — Auto-detects and replies in Hindi 🇮🇳 or English 🇬🇧  
 - 🧠 **AI-Powered Responses** — Uses **LLaMA 3.2 (3B)** model via **Ollama** for intelligent, context-rich answers  
