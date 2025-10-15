@@ -32,7 +32,8 @@ It combines **OpenAI’s Whisper**, **Ollama’s LLaMA 3.2 model**, **Google Tex
 ---
 
 ## 🌿 VISUAL DEMO
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/759772b6-dc23-4c1d-84fd-1def496a3ee9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/efb52f24-ea0e-4cea-9434-48c62f633322" />
+
 
 
 ## ⚙️ Installation
